@@ -1,0 +1,14 @@
+# ninja log v5
+0	1630	1681151609773780287	CMakeFiles/neural_networks_linux.dir/main.cpp.o	b46c88b7ffee1027
+1	2600	1681151610743780360	CMakeFiles/neural_networks_linux.dir/network.cpp.o	bd81923312c424d
+2600	2697	1681151610840447033	neural_networks_linux	6d35b4e1a0f123ef
+2	1763	1681151670557118203	CMakeFiles/neural_networks_linux.dir/main.cpp.o	b46c88b7ffee1027
+1763	1851	1681151670640451542	neural_networks_linux	6d35b4e1a0f123ef
+2	1988	1681151727123789137	CMakeFiles/neural_networks_linux.dir/main.cpp.o	b46c88b7ffee1027
+1988	2071	1681151727207122476	neural_networks_linux	6d35b4e1a0f123ef
+1	1708	1681151759360458235	CMakeFiles/neural_networks_linux.dir/main.cpp.o	b46c88b7ffee1027
+1708	1789	1681151759440458241	neural_networks_linux	6d35b4e1a0f123ef
+1	1740	1681151889900468082	CMakeFiles/neural_networks_linux.dir/main.cpp.o	b46c88b7ffee1027
+1740	1830	1681151889990468089	neural_networks_linux	6d35b4e1a0f123ef
+2	1856	1681151963740473654	CMakeFiles/neural_networks_linux.dir/main.cpp.o	b46c88b7ffee1027
+1856	1939	1681151963820473660	neural_networks_linux	6d35b4e1a0f123ef
